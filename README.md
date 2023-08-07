@@ -2,6 +2,16 @@
 
 MyUni Excess Space Shrinker
 
+## Demonstration
+
+Before:
+
+![before](docs/media/before.png)
+
+After:
+
+![after](docs/media/after.png)
+
 ## Usage
 
 ### Chrome
