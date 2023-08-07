@@ -2,6 +2,12 @@
 
 MyUni Excess Space Shrinker
 
+MyUni (Canvas LMS of The University of Adelaide) has too much unnecessary white space on the right. This eliminates that. 
+
+Features:
+* Eliminate the unnecessary white space
+* Prevent overflowing course name in to-do list
+
 ## Demonstration
 
 Before:
