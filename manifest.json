@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "MESS",
+  "version": "1.0.0",
+  "description": "MyUni Excess Space Scrubber",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://myuni.adelaide.edu.au/*"
+      ],
+      "css": [
+        "stylesheet.css"
+      ]
+    }
+  ]
+}
