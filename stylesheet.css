@@ -1,3 +1,7 @@
 div#wrapper {
   max-width: 100%;
 }
+
+div.ToDoSidebarItem__Info > span {
+  word-break: break-all;
+}
