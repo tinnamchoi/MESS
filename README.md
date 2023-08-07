@@ -31,3 +31,9 @@ Go to `about:debugging#/runtime/this-firefox` and click "Load Temporary Add-on..
 Select the downloaded file.
 
 Click on the extensions icon (shaped like a jigsaw puzzle piece) in the top-right corner. Click the gear next to "MESS" and select "Always Allow on myuni.adelaide.edu.au"
+
+## Build
+
+```shell
+make assets VERSION=<semver>
+```
