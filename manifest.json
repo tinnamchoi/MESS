@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "MESS",
   "version": "1.0.0",
-  "description": "MyUni Excess Space Scrubber",
+  "description": "MyUni Excess Space Shrinker",
   "content_scripts": [
     {
       "matches": [

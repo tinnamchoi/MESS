@@ -1,2 +1,2 @@
 # MESS
-MyUni Excess Space Scrubber
+MyUni Excess Space Shrinker
