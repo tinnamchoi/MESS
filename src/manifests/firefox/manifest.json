@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "MESS",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MyUni Excess Space Shrinker",
   "content_scripts": [
     {
@@ -12,5 +12,10 @@
         "stylesheet.css"
       ]
     }
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "mess@tinnamchoi.addons.mozilla.org"
+    }
+  }
 }
