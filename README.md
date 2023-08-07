@@ -16,7 +16,7 @@ After:
 
 ### Chrome
 
-Download the latest `MESS.v*.chromium.zip` file from the [releases page](https://github.com/tinnamchoi/MESS/releases). 
+Download the latest `MESS.v*.chrome.zip` file from the [releases page](https://github.com/tinnamchoi/MESS/releases). 
 
 Go to `chrome://extensions/` and click "Load unpacked".
 
