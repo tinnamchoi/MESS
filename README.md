@@ -32,11 +32,11 @@ Select the unpacked folder.
 
 Download the latest `MESS.[semver].firefox.xpi` file from the [releases page](https://github.com/tinnamchoi/MESS/releases). 
 
-Go to `about:debugging#/runtime/this-firefox` and click "Load Temporary Add-on...".
+Go to `about:addons` and click on the gear icon next to "Manage Your Extensions". Click "Install Add-on From File...".
 
 Select the downloaded file.
 
-Click on the extensions icon (shaped like a jigsaw puzzle piece) in the top-right corner. Click the gear next to "MESS" and select "Always Allow on myuni.adelaide.edu.au"
+Go to a MyUni page. Click on the extensions icon (shaped like a jigsaw puzzle piece) in the top-right corner. Click the gear next to "MESS" and select "Always Allow on myuni.adelaide.edu.au"
 
 ## Build
 
